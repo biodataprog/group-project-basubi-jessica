@@ -1,0 +1,13 @@
+2022-12-05 12:42:43 - MEGAHIT v1.2.9
+2022-12-05 12:42:43 - Using megahit_core with POPCNT support
+2022-12-05 12:42:43 - Convert reads to binary library
+2022-12-05 12:52:57 - b'INFO  sequence/io/sequence_lib.cpp  :   77 - Lib 0 (/rhome/jwuw001/bigdata/final/out/SRR12131164_1.fastq.gz,/rhome/jwuw001/bigdata/final/out/SRR12131164_2.fastq.gz): pe, 213429422 reads, 150 max length'
+2022-12-05 13:01:47 - b'INFO  sequence/io/sequence_lib.cpp  :   77 - Lib 1 (/rhome/jwuw001/bigdata/final/out/SRR12131175_1.fastq.gz,/rhome/jwuw001/bigdata/final/out/SRR12131175_2.fastq.gz): pe, 177267026 reads, 150 max length'
+2022-12-05 13:01:47 - b'INFO  utils/utils.h                 :  152 - Real: 1144.3573\tuser: 693.9105\tsys: 107.0179\tmaxrss: 252844'
+2022-12-05 13:01:47 - k-max reset to: 141 
+2022-12-05 13:01:47 - Start assembly. Number of CPU threads 12 
+2022-12-05 13:01:47 - k list: 21,29,39,59,79,99,119,141 
+2022-12-05 13:01:47 - Memory used: 486679759257
+2022-12-05 13:01:47 - Extract solid (k+1)-mers for k = 21 
+2022-12-05 14:01:25 - Build graph for k = 21 
+slurmstepd-c41: error: *** JOB 3154685 ON c41 CANCELLED AT 2022-12-05T14:14:17 ***

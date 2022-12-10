@@ -1,0 +1,18 @@
+2022-12-05 09:36:31,476 - SRR ids: ['SRR12131164']
+2022-12-05 09:36:31,477 - extra args: ['--split-files', '--gzip']
+2022-12-05 09:36:31,478 - tempdir: /scratch/jwuw001/3153745/pfd_se6onszu
+2022-12-05 09:36:31,478 - CMD: sra-stat --meta --quick SRR12131164
+2022-12-05 09:36:34,171 - SRR12131164 spots: 106714711
+2022-12-05 09:36:34,171 - blocks: [[1, 26678677], [26678678, 53357354], [53357355, 80036031], [80036032, 106714711]]
+2022-12-05 09:36:34,171 - CMD: fastq-dump -N 1 -X 26678677 -O /scratch/jwuw001/3153745/pfd_se6onszu/0 --split-files --gzip SRR12131164
+2022-12-05 09:36:34,174 - CMD: fastq-dump -N 26678678 -X 53357354 -O /scratch/jwuw001/3153745/pfd_se6onszu/1 --split-files --gzip SRR12131164
+2022-12-05 09:36:34,177 - CMD: fastq-dump -N 53357355 -X 80036031 -O /scratch/jwuw001/3153745/pfd_se6onszu/2 --split-files --gzip SRR12131164
+2022-12-05 09:36:34,181 - CMD: fastq-dump -N 80036032 -X 106714711 -O /scratch/jwuw001/3153745/pfd_se6onszu/3 --split-files --gzip SRR12131164
+Read 26678677 spots for SRR12131164
+Written 26678677 spots for SRR12131164
+Read 26678677 spots for SRR12131164
+Written 26678677 spots for SRR12131164
+Read 26678677 spots for SRR12131164
+Written 26678677 spots for SRR12131164
+Read 26678680 spots for SRR12131164
+Written 26678680 spots for SRR12131164

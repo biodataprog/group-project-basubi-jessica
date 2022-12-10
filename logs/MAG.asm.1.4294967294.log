@@ -1,0 +1,11 @@
+2022-12-05 09:22:12,048 - SRR ids: ['SRR12131175']
+2022-12-05 09:22:12,049 - extra args: ['--split-files', '--gzip']
+2022-12-05 09:22:12,051 - tempdir: /scratch/jwuw001/3153681/pfd_7olhf99b
+2022-12-05 09:22:12,051 - CMD: sra-stat --meta --quick SRR12131175
+2022-12-05 09:22:14,454 - SRR12131175 spots: 88633513
+2022-12-05 09:22:14,454 - blocks: [[1, 22158378], [22158379, 44316756], [44316757, 66475134], [66475135, 88633513]]
+2022-12-05 09:22:14,454 - CMD: fastq-dump -N 1 -X 22158378 -O /scratch/jwuw001/3153681/pfd_7olhf99b/0 --split-files --gzip SRR12131175
+2022-12-05 09:22:14,457 - CMD: fastq-dump -N 22158379 -X 44316756 -O /scratch/jwuw001/3153681/pfd_7olhf99b/1 --split-files --gzip SRR12131175
+2022-12-05 09:22:14,461 - CMD: fastq-dump -N 44316757 -X 66475134 -O /scratch/jwuw001/3153681/pfd_7olhf99b/2 --split-files --gzip SRR12131175
+2022-12-05 09:22:14,464 - CMD: fastq-dump -N 66475135 -X 88633513 -O /scratch/jwuw001/3153681/pfd_7olhf99b/3 --split-files --gzip SRR12131175
+slurmstepd-c31: error: *** JOB 3153681 ON c31 CANCELLED AT 2022-12-05T09:33:39 ***

@@ -1,0 +1,12 @@
+2022-12-06 11:32:13 - MEGAHIT v1.2.9
+2022-12-06 11:32:14 - Using megahit_core with POPCNT support
+2022-12-06 11:32:14 - Convert reads to binary library
+2022-12-06 11:40:27 - b'INFO  sequence/io/sequence_lib.cpp  :   77 - Lib 0 (/rhome/jwuw001/bigdata/final/out/SRR12131175_1.fastq.gz,/rhome/jwuw001/bigdata/final/out/SRR12131175_2.fastq.gz): pe, 177267026 reads, 150 max length'
+2022-12-06 11:40:28 - b'INFO  utils/utils.h                 :  152 - Real: 493.9613\tuser: 288.8649\tsys: 50.5468\tmaxrss: 244596'
+2022-12-06 11:40:28 - k-max reset to: 141 
+2022-12-06 11:40:28 - Start assembly. Number of CPU threads 12 
+2022-12-06 11:40:28 - k list: 21,29,39,59,79,99,119,141 
+2022-12-06 11:40:28 - Memory used: 486679759257
+2022-12-06 11:40:28 - Extract solid (k+1)-mers for k = 21 
+2022-12-06 12:07:18 - Build graph for k = 21 
+2022-12-06 12:45:51 - Assemble contigs from SdBG for k = 21
